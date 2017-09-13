@@ -1,8 +1,3 @@
-
-# Copyright (c) Twisted Matrix Laboratories.
-# See LICENSE for details.
-
-
 from twisted.internet import reactor, protocol, ssl
 from twisted.internet.threads import deferToThread
 from twisted.python.modules import getModule           
